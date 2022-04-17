@@ -9,7 +9,7 @@ typeMessage(message, timePerChar, initialTimeout = 0) {
  ...
 }
 
-typemessage();
+typeMessage();
 ```
 
 The function take three arguments:
