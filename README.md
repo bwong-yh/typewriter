@@ -4,7 +4,13 @@
 A simple function that display message in a typewriter-like output in the console.
 
 ## How to use
-`typeMessage(message, timePerChar, initialTimeout = 0)`
+```
+typeMessage(message, timePerChar, initialTimeout = 0) {
+ ...
+}
+
+typemessage();
+```
 
 The function take three arguments:
   1. message - string to be printed in the console
